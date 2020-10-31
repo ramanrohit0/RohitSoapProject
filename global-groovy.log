@@ -1,0 +1,26 @@
+2020-10-31 12:17:38,743 INFO  [log] email
+2020-10-31 12:17:38,748 INFO  [log] ramroh@gmail.com
+2020-10-31 12:17:38,784 INFO  [log] firstname
+2020-10-31 12:17:38,787 INFO  [log] Rohit
+2020-10-31 12:17:38,794 INFO  [log] lastname
+2020-10-31 12:17:38,797 INFO  [log] Raman
+2020-10-31 12:17:38,805 INFO  [log] dob
+2020-10-31 12:17:38,812 INFO  [log] 1990-05-29
+2020-10-31 12:17:38,819 INFO  [log] regionCode
+2020-10-31 12:17:38,829 INFO  [log] KA
+2020-10-31 12:17:38,834 INFO  [log] region
+2020-10-31 12:17:38,837 INFO  [log] Karnataka
+2020-10-31 12:17:38,882 INFO  [log] countryId
+2020-10-31 12:17:38,889 INFO  [log] IN
+2020-10-31 12:17:38,896 INFO  [log] item
+2020-10-31 12:17:38,899 INFO  [log] #55, 1 st Main Road
+2020-10-31 12:17:38,909 INFO  [log] telephone
+2020-10-31 12:17:38,913 INFO  [log] +91 9876543210
+2020-10-31 12:17:38,927 INFO  [log] postcode
+2020-10-31 12:17:38,931 INFO  [log] 560023
+2020-10-31 12:17:38,943 INFO  [log] city
+2020-10-31 12:17:38,973 INFO  [log] Bengaluru
+2020-10-31 12:17:38,989 INFO  [log] defaultShipping
+2020-10-31 12:17:39,002 INFO  [log] true
+2020-10-31 12:17:39,055 INFO  [log] defaultBilling
+2020-10-31 12:17:39,067 INFO  [log] true

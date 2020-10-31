@@ -1,0 +1,86 @@
+2020-10-31 12:17:04,778 WARN  [SoapUI] Missing folder [C:\Users\RohitRaman\Desktop\SDET\RohitSoap\soaprohit\ext] for external libraries
+2020-10-31 12:17:05,060 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\RohitRaman\soapui-settings.xml]
+2020-10-31 12:17:06,495 INFO  [WsdlProject] Loaded project from [file:/C:/Users/RohitRaman/Desktop/SDET/RohitSoap/soaprohit/Rohit-SOAP-soapui-project.xml]
+2020-10-31 12:17:07,189 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Rohit SOAP]
+2020-10-31 12:17:07,191 INFO  [SoapUITestCaseRunner] Running Project [Rohit SOAP], runType = SEQUENTIAL
+2020-10-31 12:17:07,224 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [With Property Transfer]
+2020-10-31 12:17:07,237 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-10-31 12:17:07,284 INFO  [SoapUITestCaseRunner] running step [AddCust]
+2020-10-31 12:17:09,454 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2020-10-31 12:17:09,487 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2020-10-31 12:17:09,492 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2020-10-31 12:17:09,497 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2020-10-31 12:17:09,511 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2020-10-31 12:17:09,521 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2020-10-31 12:17:09,524 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2020-10-31 12:17:09,537 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2020-10-31 12:17:09,542 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2020-10-31 12:17:09,547 INFO  [SchemaUtils] Added default schema from file:/C:/Users/RohitRaman/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2020-10-31 12:17:09,553 INFO  [SchemaUtils] Loading schema types from [file:/C:/Users/RohitRaman/Desktop/SDET/SOAP/WebService/SOAP%20API%20WSDL%20EndPoints/SOAP%20API%20WSDL%20EndPoints/customerCustomerRepositoryV1.xml]
+2020-10-31 12:17:09,554 INFO  [SchemaUtils] Getting schema file:/C:/Users/RohitRaman/Desktop/SDET/SOAP/WebService/SOAP%20API%20WSDL%20EndPoints/SOAP%20API%20WSDL%20EndPoints/customerCustomerRepositoryV1.xml
+2020-10-31 12:17:09,908 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:09,908 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:09,910 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:09,913 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-10-31 12:17:35,266 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:35,268 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:35,273 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:35,275 INFO  [SoapUITestCaseRunner] running step [ID Transfer]
+2020-10-31 12:17:35,948 INFO  [SoapUITestCaseRunner] running step [GetbyID]
+2020-10-31 12:17:36,900 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:36,901 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:36,903 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:36,906 INFO  [SoapUITestCaseRunner] running step [ID Transfer to delete]
+2020-10-31 12:17:36,932 INFO  [SoapUITestCaseRunner] running step [DeleteCust]
+2020-10-31 12:17:37,904 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:37,905 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:37,905 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:37,910 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [With Property Transfer], time taken: 30620ms, status: FINISHED
+2020-10-31 12:17:37,921 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [With Database]
+2020-10-31 12:17:37,930 INFO  [SoapUITestCaseRunner] running step [JDBC Request]
+2020-10-31 12:17:38,296 INFO  [SoapUITestCaseRunner] running step [Database]
+2020-10-31 12:17:38,743 INFO  [log] email
+2020-10-31 12:17:38,748 INFO  [log] ramroh@gmail.com
+2020-10-31 12:17:38,784 INFO  [log] firstname
+2020-10-31 12:17:38,787 INFO  [log] Rohit
+2020-10-31 12:17:38,794 INFO  [log] lastname
+2020-10-31 12:17:38,797 INFO  [log] Raman
+2020-10-31 12:17:38,805 INFO  [log] dob
+2020-10-31 12:17:38,812 INFO  [log] 1990-05-29
+2020-10-31 12:17:38,819 INFO  [log] regionCode
+2020-10-31 12:17:38,829 INFO  [log] KA
+2020-10-31 12:17:38,834 INFO  [log] region
+2020-10-31 12:17:38,837 INFO  [log] Karnataka
+2020-10-31 12:17:38,882 INFO  [log] countryId
+2020-10-31 12:17:38,889 INFO  [log] IN
+2020-10-31 12:17:38,896 INFO  [log] item
+2020-10-31 12:17:38,899 INFO  [log] #55, 1 st Main Road
+2020-10-31 12:17:38,909 INFO  [log] telephone
+2020-10-31 12:17:38,913 INFO  [log] +91 9876543210
+2020-10-31 12:17:38,927 INFO  [log] postcode
+2020-10-31 12:17:38,931 INFO  [log] 560023
+2020-10-31 12:17:38,943 INFO  [log] city
+2020-10-31 12:17:38,973 INFO  [log] Bengaluru
+2020-10-31 12:17:38,989 INFO  [log] defaultShipping
+2020-10-31 12:17:39,002 INFO  [log] true
+2020-10-31 12:17:39,055 INFO  [log] defaultBilling
+2020-10-31 12:17:39,067 INFO  [log] true
+2020-10-31 12:17:39,083 INFO  [SoapUITestCaseRunner] running step [Add Inform]
+2020-10-31 12:17:39,104 INFO  [SoapUITestCaseRunner] running step [AddCust]
+2020-10-31 12:17:41,282 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:41,285 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:41,286 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:41,288 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-10-31 12:17:57,700 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:57,702 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:57,703 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:57,706 INFO  [SoapUITestCaseRunner] running step [GetbyID]
+2020-10-31 12:17:58,511 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:58,512 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:58,512 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:58,513 INFO  [SoapUITestCaseRunner] running step [DeleteCust]
+2020-10-31 12:17:59,576 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-31 12:17:59,576 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-31 12:17:59,577 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-31 12:17:59,578 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [With Database], time taken: 21618ms, status: FINISHED
+2020-10-31 12:17:59,579 INFO  [SoapUITestCaseRunner] Project [Rohit SOAP] finished with status [FINISHED] in 52383ms
